@@ -47,7 +47,6 @@ h2, h3 {
     
 }
 
-/* Estilos para dispositivos móveis */
 @media (max-width: 600px) {
     nav a {
         display: block;
